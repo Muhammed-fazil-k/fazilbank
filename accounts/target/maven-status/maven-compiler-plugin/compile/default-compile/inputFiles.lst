@@ -4,6 +4,7 @@ F:\WebDevelopment\microservices\fazilbank\accounts\src\main\java\com\fazil\accou
 F:\WebDevelopment\microservices\fazilbank\accounts\src\main\java\com\fazil\accounts\entity\BaseEntity.java
 F:\WebDevelopment\microservices\fazilbank\accounts\src\main\java\com\fazil\accounts\constants\AccountsConstants.java
 F:\WebDevelopment\microservices\fazilbank\accounts\src\main\java\com\fazil\accounts\dto\ResponseDto.java
+F:\WebDevelopment\microservices\fazilbank\accounts\src\main\java\com\fazil\accounts\dto\AccountsContactInfoDto.java
 F:\WebDevelopment\microservices\fazilbank\accounts\src\main\java\com\fazil\accounts\entity\Accounts.java
 F:\WebDevelopment\microservices\fazilbank\accounts\src\main\java\com\fazil\accounts\exception\GlobalExceptionHandler.java
 F:\WebDevelopment\microservices\fazilbank\accounts\src\main\java\com\fazil\accounts\exception\ResourceNotFoundException.java
